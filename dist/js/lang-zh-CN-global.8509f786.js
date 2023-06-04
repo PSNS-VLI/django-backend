@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkERP_Experiment"]=self["webpackChunkERP_Experiment"]||[]).push([[616],{52864:function(e,s,t){t.r(s),s["default"]={submit:"提交",save:"保存","submit.ok":"提交成功","save.ok":"保存成功"}}}]);
